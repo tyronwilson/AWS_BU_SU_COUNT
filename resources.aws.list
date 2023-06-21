@@ -1,0 +1,12 @@
+AWS::EC2::Instance
+AWS::RDS::DBInstance
+AWS::DynamoDB::Table
+AWS::DocDB::DBInstance
+AWS::Lambda::Function
+AWS::ApiGateway::RestApi
+AWS::ApiGatewayV2::Api
+AWS::Redshift::Cluster
+AWS::ElastiCache::ReplicationGroup
+AWS::Cassandra::Keyspace
+AWS::MemoryDB::Cluster
+AWS::OpenSearchService::Domain
